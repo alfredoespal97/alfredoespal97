@@ -9,7 +9,7 @@ I am a passionate **Computer Engineer** with over **4 years of experience** in m
 
 ### Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-%2318A0FB.svg?style=for-the-badge&logo=flutter&logoColor=white) 
-![Android](https://img.shields.io/badge/Android-%2318A0FB.svg?style=for-the-badge&logo=android&logoColor=white) 
+![Android](https://img.shields.io/badge/Android-%234FC08D.svg?style=for-the-badge&logo=android&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-%23DD1B16.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 - **Flutter** |  **Android** |**Angular** | **Vue.js**
