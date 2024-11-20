@@ -1,4 +1,4 @@
-# Hi there! I'm Alfredo👋
+# Hi there! I'm Alfredo Espinosa👋
 
 ## 👨‍💻 About Me
 I am a passionate **Computer Engineer** with over **4 years of experience** in mobile and full-stack development. My expertise lies in creating **high-performance**, **scalable applications** using modern technologies such as **Flutter**, **Angular**, **Vue.js**, **Kotlin**, and **PHP**. I specialize in both **frontend** and **backend** development, with a focus on **database optimization**, **API integration**, and **performance enhancement**.
@@ -26,8 +26,8 @@ I am a passionate **Computer Engineer** with over **4 years of experience** in m
 - **Freelance Projects**: Developing scalable mobile apps and web solutions using **Vue.js**, **Flutter**, and **GraphQL**.
 
 ## 🌍 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 📧 [Email](mailto:youremail@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alfredo-rafael-espinosa-palenque-257001192/)
+- 📧 [Email](mailto:alfredorespal@gmail.com)
 - 🌐 [Personal Website](https://yourwebsite.com)
 
 ## 💬 Get in touch!
