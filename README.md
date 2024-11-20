@@ -19,7 +19,7 @@ I am a passionate **Computer Engineer** with over **4 years of experience** in m
 ## 🚀 Technologies & Tools
 
 ### Programming Languages
-- **Dart** <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  , **JavaScript**, **TypeScript**, **PHP**, **Kotlin**, **Java**, **Python**, **SQL**
+- **Dart** <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="20" /></a>  , **JavaScript**, **TypeScript**, **PHP**, **Kotlin**, **Java**, **Python**, **SQL**
 
 ### Frameworks & Libraries
 - **Flutter**, **Angular**, **Vue.js**, **Yii2**, **Node.js**, **Laravel**, **Spring Boot**, **Django**
@@ -41,10 +41,7 @@ I am a passionate **Computer Engineer** with over **4 years of experience** in m
 - 📧 [Email](mailto:alfredorespal@gmail.com)
 - 🌐 [Personal Website](https://yourwebsite.com)
 
-## 💬 Get in touch!
-Feel free to open an issue or send a message if you’re interested in collaborating or discussing new ideas. I’m always open to new opportunities and learning from others.
 
-Thanks for visiting my profile! 👨‍💻🚀
 
 
 ## My Skill Set  
@@ -119,42 +116,13 @@ Thanks for visiting my profile! 👨‍💻🚀
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alfredoespal97&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
+## 💬 Get in touch!
+Feel free to open an issue or send a message if you’re interested in collaborating or discussing new ideas. I’m always open to new opportunities and learning from others.
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=alfredoespal97&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+Thanks for visiting my profile! 👨‍💻🚀
