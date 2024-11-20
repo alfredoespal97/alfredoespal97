@@ -1,4 +1,4 @@
-# Hi there! I'm [Alfredo Espinosa] 👋
+# Hi there! I'm Alfredo Espinosa 👋
 
 ## 👨‍💻 About Me
 I am a passionate **Computer Engineer** with over **4 years of experience** in mobile and full-stack development. My expertise lies in creating **high-performance**, **scalable applications** using modern technologies such as **Flutter**, **Angular**, **Vue.js**, **Kotlin**, and **PHP**. I specialize in both **frontend** and **backend** development, with a focus on **database optimization**, **API integration**, and **performance enhancement**.
@@ -9,15 +9,16 @@ I am a passionate **Computer Engineer** with over **4 years of experience** in m
 
 ### Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-%2318A0FB.svg?style=for-the-badge&logo=flutter&logoColor=white) 
+![Android](https://img.shields.io/badge/Android-%2318A0FB.svg?style=for-the-badge&logo=android&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-%23DD1B16.svg?style=for-the-badge&logo=angular&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
-- **Flutter** | **Angular** | **Vue.js**
+- **Flutter** |  **Android** |**Angular** | **Vue.js**
 
 ### Backend
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![JAVA](https://img.shields.io/badge/Java-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-- **PHP** | **Kotlin** | **Node.js**
+- **PHP** | **JAVA** | **Node.js**
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
